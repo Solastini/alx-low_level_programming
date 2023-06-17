@@ -1,0 +1,1 @@
+The project is about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language**. And it's done during **Full Stack Software Engineering studies** at **ALX School**.
